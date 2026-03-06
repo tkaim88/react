@@ -76,4 +76,8 @@ To help you get your feet wet and get you familiar with our contribution process
 ### License
 
 React is [MIT licensed](./LICENSE).
+<<<<<<< HEAD
 This file has been edited by Thomas buko
+=======
+This file has been edited by thomas buko
+>>>>>>> 523ef1f1fddbbbeb5ec999a0d3713e4a739c0975
